@@ -5,4 +5,4 @@ Change the input outptut paths in both shell files if not running on turing clus
 
 Run sh train.sh
 Run sh test.sh
-python3 print_accuracy.py for accuracy.
+python3 print_accuracy.py.
