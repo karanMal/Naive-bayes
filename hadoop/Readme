@@ -1,0 +1,4 @@
+train.sh contains all the commands required to train the bayes classifier.
+test.sh contains all the commands to test on the test data.
+
+Change the input outptut paths in both shell files if not running on turing cluster.
