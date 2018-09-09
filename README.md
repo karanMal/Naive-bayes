@@ -8,3 +8,5 @@ memory- contains the memory based implementation codes of the Naive bayes classi
 hadoop- contains the memory based implementation codes of the Naive bayes classifier.
 
 logs- all the logs related to map reduce jobs performed in hadoop based implementation. 
+
+Naive-bayes-report.pdf contain all the details of this assignment.
